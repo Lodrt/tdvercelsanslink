@@ -27,7 +27,9 @@ q16) 3 environnements : production, développement, prévisualisation ( preview)
 Cela permet de pouvoir décomposer le travail au sein du projet et donc de pouvoir travailler a plusieurs de manière optimisée
 
 q17) 
-
+q18) https://tdvercelsanslink.vercel.app/
+q19) les pull request sont des notifications aux autres membres du projet comme quoi un pull est disponible et nécessaire
+     git branch q19 modif readme NOUVELLE BRANCHE 
 
 
 
